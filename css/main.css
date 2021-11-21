@@ -33,7 +33,7 @@ body{
     display: flex;
     align-items: center;
     flex-direction: column;
-    text-shadow: 1px 1px 5px #FFF;
+    text-shadow: 1px 1px 10px #FFF;
 }
 
 .texte h2{
@@ -189,6 +189,7 @@ img{
 .button-foot{
     padding: 0.5em 1em;
     background-color: #46276d;
+    margin: 1.5em;
 }
 
 .button-foot:hover{
@@ -367,6 +368,14 @@ i {
 .footer-menu li a{
     text-decoration:none;
     color:white;
+}
+
+.footer-menu li a:hover {
+    text-decoration: underline;
+}
+
+.footer-menu li {
+    list-style: none;
 }
 
 .footer-contact-button{
