@@ -1,4 +1,3 @@
-
 function switchTheme() {
         sheet = document.getElementById("dark-theme");
         if (sheet.disabled) {
