@@ -44,7 +44,7 @@ body {
 	text-align: justify;
 }
 
-@media (max-width: 740px) {
+@media (min-width: 740px) {
 	.texte {
 		text-align: justify;
 	}
