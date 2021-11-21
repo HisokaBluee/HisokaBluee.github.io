@@ -3,4 +3,5 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 }
 if (cookies.get("style") == "light") {
     document.getElementById("dark-theme").disabled=true;
+    console.log("OUI");
 }
