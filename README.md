@@ -5,10 +5,9 @@
 Nous sommes des étudiants de 1ère année au Bachelor Universitaire Technologique (BUT) en spécialité Informatique à l'Institut Universitaire Technologique (IUT) d'Aix-Marseille, site d'Aix-en-Provence.
 
 - BOUVERET Victor : **BouveretV**
-- GERVILLIERS Mattias : **Hisokabluee**
+- GERVILLIERS Mattias : **MattiaasGervilliers**
 - GONZALES Lenny : **GonzalesLenny**
 - SAUVA Mathieu : **mathieuDUT**
-
 
 ## Présentation du site web
 
@@ -44,7 +43,7 @@ Notre site à la particularité d'avoir **deux thèmes**, un _sombre_ et un _cla
 De plus, le visiteur peut aussi **changer de langue** puisque notre site peut-être soit en _français_ soit en _anglais_.
 
 ## Langages de programmation utilisé
-Pour créer notre site web, nous avons utilisé les langages de programmation suivants :
+Pour créer notre site web, nous avons utilisé les langages suivants :
 - HTML
 - CSS
 - JavaScript
@@ -56,9 +55,3 @@ Notre site est construit de façon à ce que chaque partie (texte, image, navbar
 ## Responsive
 
 Nous avons codé notre site de telle manière qu'il soit visible sur ordinateur, tablette ou téléphone d'une façon adaptée à la taille de l'écran.
-
-## Contact
-
-Pour de plus amples informations à propos du projet, vous pouvez nous contacter via GitHub ou soit à l'adresse mail : lenny.gonzales@etu.univ-amu.fr
-
-Lien du projet : https://github.com/GonzalesLenny/Projet_Pi_Network_Info
